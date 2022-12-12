@@ -1,5 +1,6 @@
 #!/bin/bash
-# Usage: import_user.sh user.csv
+
+# Usage: import_list_user.sh user.csv
 file=$1
 
 while read line; do
