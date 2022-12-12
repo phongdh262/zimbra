@@ -1,2 +1,0 @@
-# zimbra
-import_user
