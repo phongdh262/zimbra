@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # Usage: import_user.sh user.csv
 file=$1
 
